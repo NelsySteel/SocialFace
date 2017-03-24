@@ -1,0 +1,644 @@
+2017-03-24 20:01:48,369 DEBUG [JavaFX Application Thread] (Configuration.java:219) - Custom properties not found: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 20:01:50,285 ERROR [JavaFX Application Thread] (DbConnection.java:96) - Problems accessing the annotations database. Please check for the database and the user defined in the tml.properties file. Read the README.txt file for installation instructions.
+2017-03-24 20:01:50,285 ERROR [JavaFX Application Thread] (DbConnection.java:99) - User: tml URL:jdbc:mysql://localhost/tml
+2017-03-24 20:01:50,286 ERROR [JavaFX Application Thread] (DbConnection.java:100) - Access denied for user 'tml'@'localhost' (using password: YES)
+2017-03-24 21:34:10,422 DEBUG [JavaFX Application Thread] (Configuration.java:219) - Custom properties not found: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 21:34:12,312 ERROR [JavaFX Application Thread] (DbConnection.java:96) - Problems accessing the annotations database. Please check for the database and the user defined in the tml.properties file. Read the README.txt file for installation instructions.
+2017-03-24 21:34:12,313 ERROR [JavaFX Application Thread] (DbConnection.java:99) - User: tml URL:jdbc:mysql://localhost/tml
+2017-03-24 21:34:12,314 ERROR [JavaFX Application Thread] (DbConnection.java:100) - Access denied for user 'tml'@'localhost' (using password: YES)
+2017-03-24 21:44:52,882 DEBUG [JavaFX Application Thread] (Configuration.java:219) - Custom properties not found: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 21:44:53,561 ERROR [JavaFX Application Thread] (DbConnection.java:96) - Problems accessing the annotations database. Please check for the database and the user defined in the tml.properties file. Read the README.txt file for installation instructions.
+2017-03-24 21:44:53,562 ERROR [JavaFX Application Thread] (DbConnection.java:99) - User: tml URL:jdbc:mysql://localhost/tml
+2017-03-24 21:44:53,562 ERROR [JavaFX Application Thread] (DbConnection.java:100) - Access denied for user 'tml'@'localhost' (using password: YES)
+2017-03-24 21:51:26,162 DEBUG [JavaFX Application Thread] (Configuration.java:219) - Custom properties not found: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 21:51:26,768 ERROR [JavaFX Application Thread] (DbConnection.java:96) - Problems accessing the annotations database. Please check for the database and the user defined in the tml.properties file. Read the README.txt file for installation instructions.
+2017-03-24 21:51:26,769 ERROR [JavaFX Application Thread] (DbConnection.java:99) - User: tml URL:jdbc:mysql://localhost/tml
+2017-03-24 21:51:26,769 ERROR [JavaFX Application Thread] (DbConnection.java:100) - Access denied for user 'tml'@'localhost' (using password: YES)
+2017-03-24 21:51:40,157 ERROR [JavaFX Application Thread] (Repository.java:393) - Repository folder doesn't exist [/lib/tml-java/uploaded]
+2017-03-24 21:59:16,308 DEBUG [JavaFX Application Thread] (Configuration.java:219) - Custom properties not found: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 21:59:16,936 ERROR [JavaFX Application Thread] (DbConnection.java:96) - Problems accessing the annotations database. Please check for the database and the user defined in the tml.properties file. Read the README.txt file for installation instructions.
+2017-03-24 21:59:16,937 ERROR [JavaFX Application Thread] (DbConnection.java:99) - User: tml URL:jdbc:mysql://localhost/tml
+2017-03-24 21:59:16,937 ERROR [JavaFX Application Thread] (DbConnection.java:100) - Access denied for user 'tml'@'localhost' (using password: YES)
+2017-03-24 22:19:57,725 DEBUG [JavaFX Application Thread] (Configuration.java:219) - Custom properties not found: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 22:19:58,702 ERROR [JavaFX Application Thread] (DbConnection.java:96) - Problems accessing the annotations database. Please check for the database and the user defined in the tml.properties file. Read the README.txt file for installation instructions.
+2017-03-24 22:19:58,703 ERROR [JavaFX Application Thread] (DbConnection.java:99) - User: tml URL:jdbc:mysql://localhost/tml
+2017-03-24 22:19:58,704 ERROR [JavaFX Application Thread] (DbConnection.java:100) - Access denied for user 'tml'@'localhost' (using password: YES)
+2017-03-24 22:39:37,644 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 22:39:38,679  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 22:39:38,818  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 22:39:38,819  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 22:39:38,820  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 10:39 PM) initializing
+2017-03-24 22:39:38,821  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 22:39:38,822  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:UserskristDocumentsNetBeansProjectsSocialFaceApplib	ml-java"
+2017-03-24 22:39:38,823 ERROR [JavaFX Application Thread] (Repository.java:393) - Repository folder doesn't exist [/lib/tml-java/uploaded]
+2017-03-24 22:58:16,806 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 22:58:17,949  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 22:58:17,998  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 22:58:17,998  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 22:58:17,999  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 10:45 PM) initializing
+2017-03-24 22:58:17,999  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 22:58:18,000  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-24 22:58:18,001 ERROR [JavaFX Application Thread] (Repository.java:393) - Repository folder doesn't exist [/uploaded]
+2017-03-24 23:04:45,046 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 23:04:45,800  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:04:45,848  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 23:04:45,849  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 23:04:45,850  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 11:04 PM) initializing
+2017-03-24 23:04:45,850  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 23:04:45,851  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-24 23:04:45,854  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:04:45,855 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:04:45,856  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:04:45,929  WARN [JavaFX Application Thread] (Repository.java:409) - Repository:		Lucene index corrupt or inexistent, recreating
+2017-03-24 23:04:45,997  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:04:45,997  INFO [JavaFX Application Thread] (DbConnection.java:57) - Cleaning meta data storage, all documents will be lost!
+2017-03-24 23:04:46,501 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:04:46,502 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:04:46,503 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:04:46,530 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:04:46,546 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@6baed205 English
+2017-03-24 23:04:46,612  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:04:46,642  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:04:55,783 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from /src/main/resources/lsa
+2017-03-24 23:14:34,271 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 23:14:35,133  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:14:35,187  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 23:14:35,187  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 23:14:35,188  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 11:13 PM) initializing
+2017-03-24 23:14:35,189  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 23:14:35,190  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-24 23:14:35,194  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:14:35,195 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:14:35,196  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:14:35,393  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:14:35,394 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:14:35,395 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:14:35,395 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:14:35,421 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:14:35,518 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@24063825 English
+2017-03-24 23:14:35,575  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:14:35,777  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:14:49,043 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-24 23:14:49,075 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-24 23:14:49,078 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:14:49,487 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:???????????.txt
+2017-03-24 23:14:49,541 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document ???????????[???????????]
+2017-03-24 23:14:49,542 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:14:51,001 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-24 23:14:51,001 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-24 23:14:51,051 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:14:51,382 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:?????????? ???.txt
+2017-03-24 23:14:51,384 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document ?????????????[?????????? ???]
+2017-03-24 23:14:51,385 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:14:53,252 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-24 23:14:53,253 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-24 23:14:53,692  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 4620 ms
+2017-03-24 23:15:03,183  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:15:03,184 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:15:03,185  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:15:03,196  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:15:03,197 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:15:03,198 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:15:03,199 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:15:03,205 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:15:03,208 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@5ae24ff5 English
+2017-03-24 23:15:03,342  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:15:03,348  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:15:03,367 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-24 23:15:03,471 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-24 23:15:03,473 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-24 23:15:03,519 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-24 23:15:03,519 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-24 23:15:03,522 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-24 23:15:03,525 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-24 23:15:03,535 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-24 23:15:03,543 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-24 23:15:03,546 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-24 23:15:03,547 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-24 23:15:03,548 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-24 23:15:03,551  WARN [JavaFX Application Thread] (SemanticSpace.java:168) - Matrix inverted because first dimensions caused negative singular vectors in Jama
+2017-03-24 23:15:03,552  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 5 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:15:03,553  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 186 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:15:03,557  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-24 23:15:03,561  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 3 ms.
+2017-03-24 23:20:54,520 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 23:20:55,178  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:20:55,222  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 23:20:55,222  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 23:20:55,223  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 11:20 PM) initializing
+2017-03-24 23:20:55,223  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 23:20:55,223  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-24 23:20:55,225  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:20:55,225 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:20:55,226  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:20:55,350  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:20:55,351 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:20:55,351 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:20:55,352 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:20:55,362 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:20:55,380 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@3c5ffe52 English
+2017-03-24 23:20:55,422  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:20:55,513  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:20:55,513 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-24 23:20:55,537 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-24 23:20:55,538 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:20:55,569 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:???????????.txt
+2017-03-24 23:20:55,597 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document ???????????[???????????]
+2017-03-24 23:20:55,598 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:20:55,991 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-24 23:20:55,992 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-24 23:20:55,998 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:20:56,027 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:?????????? ???.txt
+2017-03-24 23:20:56,027 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document ?????????????[?????????? ???]
+2017-03-24 23:20:56,028 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:20:56,494 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-24 23:20:56,494 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-24 23:20:59,299  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 3765 ms
+2017-03-24 23:20:59,300  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:20:59,300 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:20:59,300  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:20:59,303  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:20:59,303 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:20:59,304 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:20:59,304 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:20:59,305 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:20:59,306 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@37ebc55e English
+2017-03-24 23:20:59,317  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:20:59,325  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:20:59,380 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-24 23:20:59,432 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-24 23:20:59,432 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-24 23:20:59,446 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-24 23:20:59,446 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-24 23:20:59,447 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-24 23:20:59,448 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-24 23:20:59,471 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-24 23:20:59,472 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-24 23:20:59,473 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-24 23:20:59,474 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-24 23:20:59,474 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-24 23:20:59,476  WARN [JavaFX Application Thread] (SemanticSpace.java:168) - Matrix inverted because first dimensions caused negative singular vectors in Jama
+2017-03-24 23:20:59,476  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 2 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:20:59,476  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 96 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:20:59,479  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-24 23:20:59,480  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 1 ms.
+2017-03-24 23:28:15,128 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 23:28:16,213  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:28:16,270  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 23:28:16,271  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 23:28:16,272  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 11:28 PM) initializing
+2017-03-24 23:28:16,272  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 23:28:16,274  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-24 23:28:16,304  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:28:16,304 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:28:16,304  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:28:17,072  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:28:17,089 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:28:17,090 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:28:17,090 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:28:17,159 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:28:17,322 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@6b15eab1 English
+2017-03-24 23:28:17,389  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:28:17,821  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:28:17,822 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-24 23:28:17,891 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-24 23:28:17,893 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:28:17,971 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-24 23:28:18,068 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-24 23:28:18,068 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:28:20,098 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-24 23:28:20,099 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-24 23:28:20,651 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:28:20,708 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-24 23:28:20,708 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-24 23:28:20,710 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:28:20,867 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-24 23:28:20,868 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-24 23:28:21,992  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 4112 ms
+2017-03-24 23:28:21,993  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:28:21,994 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:28:21,994  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:28:21,999  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:28:21,999 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:28:22,000 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:28:22,000 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:28:22,002 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:28:22,003 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@1376ce0c English
+2017-03-24 23:28:22,094  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:28:22,106  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:28:22,122 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-24 23:28:22,341 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 4 documents found
+2017-03-24 23:28:22,343 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-24 23:28:22,375 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-24 23:28:22,375 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 4 documents processed, 95 terms kept
+2017-03-24 23:28:22,376 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-24 23:28:22,377 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-24 23:28:22,390 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-24 23:28:22,394 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-24 23:28:22,396 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-24 23:28:22,396 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-24 23:28:22,396 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-24 23:28:22,399  WARN [JavaFX Application Thread] (SemanticSpace.java:168) - Matrix inverted because first dimensions caused negative singular vectors in Jama
+2017-03-24 23:28:22,399  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 3 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:28:22,399  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 277 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:28:22,401  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-24 23:28:22,402  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 10 results obtained in 1 ms.
+2017-03-24 23:40:55,801 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 23:40:57,920  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:40:57,987  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 23:40:57,988  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 23:40:57,989  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 11:37 PM) initializing
+2017-03-24 23:40:57,989  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 23:40:57,991  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-24 23:40:57,994  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:40:57,996 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:40:57,997  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:40:58,109  WARN [JavaFX Application Thread] (Repository.java:409) - Repository:		Lucene index corrupt or inexistent, recreating
+2017-03-24 23:40:58,254  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:40:58,254  INFO [JavaFX Application Thread] (DbConnection.java:57) - Cleaning meta data storage, all documents will be lost!
+2017-03-24 23:40:59,020 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:40:59,021 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:40:59,021 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:40:59,037 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:40:59,044 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@65eb8f07 English
+2017-03-24 23:40:59,080  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:40:59,093  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:40:59,093 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-24 23:40:59,097 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-24 23:40:59,098 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:40:59,142 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-24 23:40:59,178 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-24 23:40:59,178 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:40:59,870 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-24 23:40:59,870 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-24 23:40:59,880 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:40:59,937 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-24 23:40:59,937 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-24 23:40:59,937 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:41:00,124 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-24 23:41:00,125 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-24 23:41:01,264  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 2170 ms
+2017-03-24 23:41:01,265  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:41:01,265 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:41:01,265  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:41:01,341  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:41:01,342 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:41:01,342 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:41:01,343 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:41:01,344 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:41:01,344 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@7b06b72e English
+2017-03-24 23:41:02,878  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:41:02,883  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:41:03,033 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-24 23:41:03,967 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-24 23:41:03,968 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-24 23:41:04,108 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-24 23:41:04,109 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-24 23:41:04,109 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-24 23:41:04,110 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-24 23:41:04,152 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-24 23:41:04,154 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-24 23:41:04,156 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-24 23:41:04,157 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-24 23:41:04,158 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-24 23:41:04,241  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 84 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:41:04,242  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 1209 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:41:04,321  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-24 23:41:04,427  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 106 ms.
+2017-03-24 23:48:04,362 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-24 23:48:05,151  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:48:05,226  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-24 23:48:05,227  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-24 23:48:05,227  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/24/17 11:47 PM) initializing
+2017-03-24 23:48:05,228  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-24 23:48:05,228  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-24 23:48:05,230  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:48:05,230 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:48:05,231  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:48:05,396  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:48:05,396 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:48:05,397 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:48:05,397 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:48:05,435 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:48:05,470 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@2749eb0a English
+2017-03-24 23:48:05,566  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:48:05,711  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:48:05,712 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-24 23:48:05,719 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-24 23:48:05,720 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:48:05,782 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-24 23:48:05,813 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-24 23:48:05,813 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:48:06,426 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-24 23:48:06,426 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-24 23:48:06,452 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-24 23:48:06,483 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-24 23:48:06,483 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-24 23:48:06,484 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-24 23:48:06,673 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-24 23:48:06,673 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-24 23:48:08,311  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 2598 ms
+2017-03-24 23:48:08,312  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-24 23:48:08,313 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-24 23:48:08,313  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-24 23:48:08,320  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-24 23:48:08,321 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-24 23:48:08,321 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-24 23:48:08,322 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-24 23:48:08,344 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-24 23:48:08,345 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@6cb2b9a3 English
+2017-03-24 23:48:08,426  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-24 23:48:08,436  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-24 23:48:08,530 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-24 23:48:08,584 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-24 23:48:08,585 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-24 23:48:08,601 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-24 23:48:08,602 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-24 23:48:08,603 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-24 23:48:08,604 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-24 23:48:08,607 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-24 23:48:08,609 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-24 23:48:08,610 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-24 23:48:08,611 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-24 23:48:08,612 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-24 23:48:08,614  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 3 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:48:08,615  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 85 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-24 23:48:08,617  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-24 23:48:08,619  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 1 ms.
+2017-03-25 00:03:36,761 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-25 00:03:37,558  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:03:37,621  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-25 00:03:37,622  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-25 00:03:37,623  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/25/17 12:03 AM) initializing
+2017-03-25 00:03:37,623  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-25 00:03:37,624  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-25 00:03:37,655  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:03:37,656 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:03:37,656  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:03:37,966  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:03:37,967 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:03:37,968 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:03:37,968 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:03:37,985 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:03:38,000 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@347faaf8 English
+2017-03-25 00:03:38,032  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:03:38,135  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 00:03:38,136 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-25 00:03:38,143 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-25 00:03:38,144 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:03:38,171 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-25 00:03:38,202 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-25 00:03:38,203 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:03:38,789 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-25 00:03:38,789 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-25 00:03:38,797 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:03:38,825 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-25 00:03:38,826 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-25 00:03:38,826 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:03:38,970 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-25 00:03:38,971 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-25 00:03:41,085  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 2948 ms
+2017-03-25 00:03:41,086  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:03:41,087 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:03:41,087  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:03:41,094  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:03:41,094 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:03:41,095 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:03:41,096 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:03:41,099 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:03:41,100 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@14e6fe13 English
+2017-03-25 00:03:41,140  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:03:41,158  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 00:03:41,247 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-25 00:03:41,298 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-25 00:03:41,299 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-25 00:03:41,319 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-25 00:03:41,320 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-25 00:03:41,321 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-25 00:03:41,322 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-25 00:03:41,339 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-25 00:03:41,341 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-25 00:03:41,342 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-25 00:03:41,343 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-25 00:03:41,343 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-25 00:03:41,347  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 4 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-25 00:03:41,347  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 101 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-25 00:03:41,349  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-25 00:03:41,351  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 1 ms.
+2017-03-25 00:16:08,543  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:16:08,544 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:16:08,544  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:16:08,548  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:16:08,549 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:16:08,549 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:16:08,550 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:16:08,560 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:16:08,561 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@30051887 English
+2017-03-25 00:16:08,686  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:16:08,712  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 00:16:08,712 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-25 00:16:08,726 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-25 00:16:08,726 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:16:08,746 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-25 00:16:08,747 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-25 00:16:08,747 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:16:09,122 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-25 00:16:09,122 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-25 00:16:09,142 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:16:09,171 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-25 00:16:09,171 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-25 00:16:09,172 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:16:09,284 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-25 00:16:09,285 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-25 00:16:10,003  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 1290 ms
+2017-03-25 00:16:10,004  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:16:10,004 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:16:10,005  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:16:10,011  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:16:10,012 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:16:10,012 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:16:10,013 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:16:10,024 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:16:10,025 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@27101f61 English
+2017-03-25 00:16:10,051  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:16:10,074  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 00:16:10,075 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-25 00:16:10,078 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-25 00:16:10,078 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-25 00:16:10,085 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-25 00:16:10,085 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-25 00:16:10,086 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-25 00:16:10,086 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-25 00:16:10,086 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-25 00:16:10,087 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-25 00:16:10,088 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-25 00:16:10,088 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-25 00:16:10,088 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-25 00:16:10,089  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 1 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-25 00:16:10,089  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 14 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-25 00:16:10,089  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-25 00:16:10,090  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 0 ms.
+2017-03-25 00:21:55,067 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-25 00:21:55,985  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:21:56,038  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-25 00:21:56,038  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-25 00:21:56,039  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/25/17 12:21 AM) initializing
+2017-03-25 00:21:56,039  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-25 00:21:56,039  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-25 00:21:56,061  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:21:56,062 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:21:56,062  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:21:56,415  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:21:56,416 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:21:56,416 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:21:56,417 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:21:56,430 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:21:56,473 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@3e452e19 English
+2017-03-25 00:21:56,504  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:21:56,623  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 00:21:56,623 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-25 00:21:56,650 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-25 00:21:56,651 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:21:56,695 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-25 00:21:56,782 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-25 00:21:56,782 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:21:57,479 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-25 00:21:57,479 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-25 00:21:57,486 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:21:57,603 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-25 00:21:57,604 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-25 00:21:57,604 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:21:57,739 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-25 00:21:57,739 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-25 00:21:58,677  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 2033 ms
+2017-03-25 00:21:58,678  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:21:58,679 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:21:58,679  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:21:58,684  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:21:58,685 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:21:58,685 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:21:58,685 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:21:58,687 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:21:58,687 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@37ebc55e English
+2017-03-25 00:21:58,702  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:21:58,715  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 00:21:58,822 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-25 00:21:59,015 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-25 00:21:59,016 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-25 00:21:59,041 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-25 00:21:59,042 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-25 00:21:59,042 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-25 00:21:59,043 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-25 00:21:59,060 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-25 00:21:59,061 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-25 00:21:59,062 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-25 00:21:59,063 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-25 00:21:59,063 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-25 00:21:59,066  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 3 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-25 00:21:59,067  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 245 ms. Parameters:DF_0_LOGTF_Entropy_NUM_50_J
+2017-03-25 00:21:59,069  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-25 00:21:59,071  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 1 ms.
+2017-03-25 00:35:27,405 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-25 00:35:28,344  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:35:28,455  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-25 00:35:28,456  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-25 00:35:28,457  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/25/17 12:35 AM) initializing
+2017-03-25 00:35:28,458  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-25 00:35:28,459  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-25 00:35:28,522  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:35:28,523 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:35:28,523  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:35:28,857  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:35:28,858 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:35:28,860 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:35:28,861 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:35:28,888 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:35:28,906 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@a0174ca English
+2017-03-25 00:35:28,933  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:35:29,236  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 00:35:29,236 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-25 00:35:29,274 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-25 00:35:29,275 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:35:29,321 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-25 00:35:29,417 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-25 00:35:29,418 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:35:30,541 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-25 00:35:30,542 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-25 00:35:30,551 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 00:35:30,594 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-25 00:35:30,595 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-25 00:35:30,595 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 00:35:30,799 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-25 00:35:30,799 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-25 00:35:39,105  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 9835 ms
+2017-03-25 00:35:39,106  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 00:35:39,107 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 00:35:39,107  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 00:35:39,113  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 00:35:39,113 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 00:35:39,114 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 00:35:39,114 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 00:35:39,117 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 00:35:39,118 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@7b179074 English
+2017-03-25 00:35:39,448  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 00:35:39,465  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 01:07:35,402 DEBUG [JavaFX Application Thread] (Configuration.java:214) - Reading properties from filesystem: C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp\tml.properties
+2017-03-25 01:07:36,224  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 01:07:36,297  INFO [JavaFX Application Thread] (Configuration.java:244) - ----------------------------------------------------
+2017-03-25 01:07:36,297  INFO [JavaFX Application Thread] (Configuration.java:245) - TML - Text Mining Library
+2017-03-25 01:07:36,298  INFO [JavaFX Application Thread] (Configuration.java:246) - Version: Devel (3/25/17 1:07 AM) initializing
+2017-03-25 01:07:36,298  INFO [JavaFX Application Thread] (Configuration.java:247) - ----------------------------------------------------
+2017-03-25 01:07:36,299  INFO [JavaFX Application Thread] (Configuration.java:143) - TML folder:		"C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"
+2017-03-25 01:07:36,330  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 01:07:36,330 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 01:07:36,331  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 01:07:36,641  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 01:07:36,642 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 01:07:36,642 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 01:07:36,642 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 01:07:36,676 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 01:07:36,711 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@626065e5 English
+2017-03-25 01:07:36,744  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 01:07:36,853  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 01:07:36,854 DEBUG [JavaFX Application Thread] (Repository.java:633) - Adding text files from C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/src/main/resources/lsa
+2017-03-25 01:07:36,884 DEBUG [JavaFX Application Thread] (Repository.java:684) - Adding files using encoding UTF-8
+2017-03-25 01:07:36,885 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 01:07:36,920 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 0:gamedev.txt
+2017-03-25 01:07:36,931 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document gamedev[gamedev]
+2017-03-25 01:07:36,932 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 01:07:37,663 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 94 paragraphs and 108 sentences.
+2017-03-25 01:07:37,663 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 98 paragraphs and 2 sentences.
+2017-03-25 01:07:37,673 DEBUG [JavaFX Application Thread] (Repository.java:702) - Using importer tml.storage.importers.TextImporter
+2017-03-25 01:07:37,714 DEBUG [JavaFX Application Thread] (Repository.java:709) - Adding document 1:movies.txt
+2017-03-25 01:07:37,715 DEBUG [JavaFX Application Thread] (Repository.java:780) - Adding segments to document movies[movies]
+2017-03-25 01:07:37,715 DEBUG [JavaFX Application Thread] (Repository.java:793) - Parsing text with en
+2017-03-25 01:07:37,916 DEBUG [JavaFX Application Thread] (Repository.java:853) - Added 34 paragraphs and 45 sentences.
+2017-03-25 01:07:37,916 DEBUG [JavaFX Application Thread] (Repository.java:855) - Ignored 19 paragraphs and 0 sentences.
+2017-03-25 01:07:41,006  INFO [JavaFX Application Thread] (Repository.java:733) - Successfully added 2 documents in 4126 ms
+2017-03-25 01:07:41,007  INFO [JavaFX Application Thread] (Repository.java:401) - TML initialization
+2017-03-25 01:07:41,007 DEBUG [JavaFX Application Thread] (Repository.java:402) - Context Path:		C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp
+2017-03-25 01:07:41,008  INFO [JavaFX Application Thread] (Repository.java:403) - Repository path:	C:\Users\krist\Documents\NetBeansProjects\SocialFaceApp/lib/tml-java/uploaded
+2017-03-25 01:07:41,013  INFO [JavaFX Application Thread] (Repository.java:407) - Repository:		Lucene initialized
+2017-03-25 01:07:41,014 DEBUG [JavaFX Application Thread] (Repository.java:417) - Cache:			SVDs stored in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/svd
+2017-03-25 01:07:41,014 DEBUG [JavaFX Application Thread] (Repository.java:423) - Temp:			Temporary files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/tmp
+2017-03-25 01:07:41,015 DEBUG [JavaFX Application Thread] (Repository.java:429) - Indexer:		Processed files in "C:/Users/krist/Documents/NetBeansProjects/SocialFaceApp/lib/tml-java"/processed
+2017-03-25 01:07:41,017 DEBUG [JavaFX Application Thread] (Repository.java:448) - Stopwords:		Using English (571 stopwords)
+2017-03-25 01:07:41,018 DEBUG [JavaFX Application Thread] (Repository.java:457) - Stemming:		Using org.apache.lucene.analysis.snowball.SnowballAnalyzer@25ad66cd English
+2017-03-25 01:07:41,075  INFO [JavaFX Application Thread] (DbConnection.java:104) - Metadata:		Storing metadata info in DB com.mysql.jdbc.Driver at jdbc:mysql://localhost/tml_metadata
+2017-03-25 01:07:41,099  INFO [JavaFX Application Thread] (Repository.java:513) - TML initialized
+2017-03-25 01:07:48,582 DEBUG [JavaFX Application Thread] (Corpus.java:377) - Corpus being loaded. Query:type:document
+2017-03-25 01:07:49,189 DEBUG [JavaFX Application Thread] (Corpus.java:387) - 2 documents found
+2017-03-25 01:07:49,195 DEBUG [JavaFX Application Thread] (Dictionary.java:70) - Creating dictionary for corpus type:document
+2017-03-25 01:07:49,247 DEBUG [JavaFX Application Thread] (Dictionary.java:159) - Removal of terms finished, 0 terms removed, 95 terms kept.
+2017-03-25 01:07:49,248 DEBUG [JavaFX Application Thread] (Corpus.java:469) - 2 documents processed, 95 terms kept
+2017-03-25 01:07:49,252 DEBUG [JavaFX Application Thread] (Corpus.java:498) - Terms sorted
+2017-03-25 01:07:49,256 DEBUG [JavaFX Application Thread] (Corpus.java:518) - Frequencies calculated
+2017-03-25 01:07:49,299 DEBUG [JavaFX Application Thread] (TermWeighting.java:237) - Term weighting. Local: LOGTF Global: Entropy
+2017-03-25 01:07:49,316 DEBUG [JavaFX Application Thread] (TermWeighting.java:243) - Updating weights
+2017-03-25 01:07:49,321 DEBUG [JavaFX Application Thread] (Corpus.java:529) - Term weighting applied
+2017-03-25 01:07:49,322 DEBUG [JavaFX Application Thread] (SemanticSpace.java:101) - Applying dimensionality reduction
+2017-03-25 01:07:49,323 DEBUG [JavaFX Application Thread] (SemanticSpace.java:154) - Using Jama SVD
+2017-03-25 01:07:49,360  INFO [JavaFX Application Thread] (SemanticSpace.java:244) - Semantic space calculated in 38 ms. Parameters:DF_0_LOGTF_Entropy_NUM_1_J
+2017-03-25 01:07:49,361  INFO [JavaFX Application Thread] (Corpus.java:537) - Corpus type:document loaded in 780 ms. Parameters:DF_0_LOGTF_Entropy_NUM_1_J
+2017-03-25 01:08:14,053  INFO [JavaFX Application Thread] (AbstractOperation.java:267) - Operation Passages similarity started
+2017-03-25 01:08:14,057  INFO [JavaFX Application Thread] (AbstractOperation.java:105) - Operation Passages similarity finished, 3 results obtained in 2 ms.

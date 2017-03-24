@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 24, 2017 3:38:36 PM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="diploma.socialfaceapp.Utils.TmlDocumentsReviews" table="tml_documents_reviews" catalog="tml_metadata" optimistic-lock="version">
+        <composite-id name="id" class="diploma.socialfaceapp.Utils.TmlDocumentsReviewsId">
+            <key-property name="documentExternalid" type="string">
+                <column name="document_externalid" length="128" />
+            </key-property>
+            <key-property name="reviewAuthor" type="string">
+                <column name="review_author" length="128" />
+            </key-property>
+            <key-property name="reviewName" type="string">
+                <column name="review_name" length="50" />
+            </key-property>
+        </composite-id>
+        <property name="reviewValue" type="string">
+            <column name="review_value" length="65535" />
+        </property>
+        <property name="reviewDate" type="timestamp">
+            <column name="review_date" length="19" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

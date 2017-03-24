@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 24, 2017 3:38:36 PM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="diploma.socialfaceapp.Utils.TmlDocuments" table="tml_documents" catalog="tml_metadata" optimistic-lock="version">
+        <id name="documentExternalid" type="string">
+            <column name="document_externalid" length="128" />
+            <generator class="assigned" />
+        </id>
+        <property name="documentTitle" type="string">
+            <column name="document_title" length="256" not-null="true" />
+        </property>
+        <property name="documentDate" type="timestamp">
+            <column name="document_date" length="19" not-null="true" />
+        </property>
+        <property name="documentType" type="string">
+            <column name="document_type" length="256" not-null="true" />
+        </property>
+        <property name="documentUrl" type="string">
+            <column name="document_url" length="256" not-null="true" />
+        </property>
+        <property name="documentContent" type="string">
+            <column name="document_content" length="65535" />
+        </property>
+        <property name="documentAnnotated" type="int">
+            <column name="document_annotated" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>
