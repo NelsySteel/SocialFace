@@ -1,7 +1,9 @@
 package diploma.socialfaceapp;
 
-import diploma.socialfaceapp.analys.AnalysHandler;
-import java.io.IOException;
+import diploma.socialfaceapp.Utils.dbUtils;
+import diploma.socialfaceapp.socialNetworks.SocialNetwork;
+import diploma.socialfaceapp.socialNetworks.VK;
+import diploma.socialfaceapp.learning.Regression;
 import java.net.URL;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -22,6 +24,7 @@ public class FXMLController implements Initializable {
     private AuthForm AuthForm;
     private LikesForm LikesForm;
     static public List<String> posts;
+    static public SocialNetwork vk;
     @FXML
     private Label post_text;
     
@@ -49,23 +52,20 @@ public class FXMLController implements Initializable {
         }
         post_text.setText(liked_posts);
         System.out.println("Text added");
+        try {
+            dbUtils.connect();
+        } catch (SQLException | ClassNotFoundException ex) {
+            Logger.getLogger(FXMLController.class.getName()).log(Level.SEVERE, null, ex);
+        }
     }
     @FXML
-    private void handleButtonLSAAction(ActionEvent event){
-        try {
-            Path currentRelativePath = Paths.get("");
-            String s = currentRelativePath.toAbsolutePath().toString();
-            AnalysHandler.LSA.AddingFilesToRepository(s+"/src/main/resources/lsa");
-            //List<PassageSimilarityResult> result = AnalysHandler.LSA.execute();
-            //String liked_posts = "Similarity: \n";
-            //for (PassageSimilarityResult similarity: result){
-            //    liked_posts+=similarity.getDocumentA()+", ";
-            //    liked_posts+=similarity.getDocumentB()+": ";
-            //    liked_posts+=similarity.getSimilarity()+"\n ";
-            //}
-        post_text.setText(AnalysHandler.LSA.execute());
-        } catch (IOException | SQLException ex) {
-            Logger.getLogger(FXMLController.class.getName()).log(Level.SEVERE, null, ex);
+    private void handleButtonLSAAction(ActionEvent event) throws Exception{
+    }
+    @FXML
+    private void handleButtonREGAction(ActionEvent event){
+        Regression reg = new Regression();
+        for (Double parameter:reg.RegressionHandler("trait")){
+            System.out.print(parameter+", ");
         }
     }
     @Override
@@ -73,5 +73,6 @@ public class FXMLController implements Initializable {
         AuthForm = new AuthForm();
         LikesForm = new LikesForm();
         posts = new ArrayList<>();
+        vk = new VK();
     }    
 }

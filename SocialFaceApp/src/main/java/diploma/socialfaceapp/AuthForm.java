@@ -21,11 +21,10 @@ import javafx.stage.Stage;
 public class AuthForm {
     public List results;
     public void start() throws Exception {
-        final SocialNetwork vk = new VK();
-        vk.connect();
+        FXMLController.vk.connect();
         
         final Stage window = new Stage();
-        final Browser browser = new Browser(vk.GetRequest());
+        final Browser browser = new Browser(FXMLController.vk.GetRequest());
         browser.webEngine.getLoadWorker().stateProperty().addListener(
             new ChangeListener<State>() {
               @Override public void changed(ObservableValue ov, State oldState, State newState) {
@@ -39,8 +38,7 @@ public class AuthForm {
                       String[] tokens = link.split(delims);
                       String code = tokens[1];
                       System.out.println(code);
-                      vk.connectUser(code);
-                      FXMLController.posts = vk.GetLikes();
+                      FXMLController.vk.connectUser(code);
                       window.hide();
                   }
                   

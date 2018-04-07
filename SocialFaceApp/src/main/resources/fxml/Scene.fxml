@@ -14,6 +14,7 @@
         <Button layoutX="200" layoutY="250" text="Click Me!" onAction="#handleButtonAction" fx:id="button" />
         <Button layoutX="300" layoutY="250" text="Get Results!" onAction="#handleButton2Action" fx:id="button2" />
         <Button layoutX="10" layoutY="250" text="Process Documents!" onAction="#handleButtonLSAAction" fx:id="buttonLSA" />
+        <Button layoutX="10" layoutY="250" text="Get regression!" onAction="#handleButtonREGAction" fx:id="buttonReg" />
         <Label layoutX="126" layoutY="120" minHeight="16" minWidth="69" fx:id="label" />
     </children>
 </AnchorPane>
